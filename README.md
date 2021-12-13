@@ -9,7 +9,7 @@ Probability of employees at the processing center are between 38 and 44 : 34.13%
 B.	A training program for employees under the age of 30 at the center would be expected to attract about 36 employees.
 Ans: True
 
-Que 2 :4.	Let X ~ N(100, 202). Find two values, a and b, symmetric about the mean, such that the probability of the random variable taking a value between them is 0.99. 
+Que 2 :4.	Let X ~ N(100, 202). Find two values, a and b, symmetric about the mean, such that the probability of the random variable taking a value between them is 0.99 
 
 Que 3: 5.	Consider a company that has two different divisions. The annual profits from the two divisions are independent and have distributions Profit1 ~ N(5, 32) and Profit2 ~ N(7, 42) respectively. Both the profits are in $ Million. Answer the following questions about the total profit of the company in Rupees. Assume that $1 = Rs. 45
 A.	Specify a Rupee range (centered on the mean) such that it contains 95% probability for the annual profit of the company.
